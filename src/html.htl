@@ -20,12 +20,7 @@ spectrum-css-diff.css file as well -->
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <link rel="icon" href="/favicon.ico" />
-    <link rel="stylesheet" href="/spectrum-core.css" />
-    <link rel="stylesheet" href="/spectrum-light.css" />
-    <link rel="stylesheet" href="/spectrum-lightest.css" />
-    <link rel="stylesheet" href="/spectrum-dark.css" />
-    <link rel="stylesheet" href="/spectrum-darkest.css" />
-    <link rel="stylesheet" href="/spectrum-flexbox-grid.css" />
+    <link rel="stylesheet" href="/spectrum.css" />
     <link rel="stylesheet" href="/homepage.css" />
     <link rel="stylesheet" href="/topnav.css" />
     <link rel="stylesheet" href="/footer.css" />
