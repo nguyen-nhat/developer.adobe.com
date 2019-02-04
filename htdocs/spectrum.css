@@ -178,7 +178,9 @@ li {
   margin-bottom: 0;
 }
 .spectrum-Heading1,
-h1 {
+h1,
+.index1 h1,
+.index3 h1 {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.3;
@@ -209,7 +211,9 @@ h1 {
   margin-bottom: 0;
 }
 .spectrum-Heading2,
-h2 {
+h2,
+.index1 h2,
+.index3 h2 {
   font-size: 28px;
   font-weight: 700;
   line-height: 1.3;
@@ -240,7 +244,9 @@ h2 {
   margin-bottom: 0;
 }
 .spectrum-Heading3,
-h3 {
+h3,
+.index1 h3,
+.index3 h3 {
   font-size: 22px;
   font-weight: 700;
   line-height: 1.3;
@@ -272,7 +278,9 @@ h3 {
 }
 .spectrum-Heading4,
 .spectrum-Heading--subtitle1,
-h4 {
+h4,
+.index1 h4,
+.index3 h4 {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.3;
@@ -305,7 +313,9 @@ h4 {
   margin-bottom: 0;
 }
 .spectrum-Heading5,
-h5 {
+h5,
+.index1 h5,
+.index3 h5 {
   font-size: 16px;
   font-weight: 700;
   line-height: 1.3;
@@ -761,28 +771,38 @@ h5 {
   margin-bottom: 9px;
 }
 .spectrum-Typography .spectrum-Heading1,
-h1 {
+h1,
+.index1 h1,
+.index3 h1 {
   margin-top: 32px;
   margin-bottom: 9px;
 }
 .spectrum-Typography .spectrum-Heading2,
-h2 {
+h2,
+.index1 h2,
+.index3 h2 {
   margin-top: 25px;
   margin-bottom: 7px;
 }
 .spectrum-Typography .spectrum-Heading3,
-h3 {
+h3,
+.index1 h3,
+.index3 h3 {
   margin-top: 20px;
   margin-bottom: 6px;
 }
 .spectrum-Typography .spectrum-Heading4,
 .spectrum-Typography .spectrum-Heading--subtitle1,
-h4 {
+h4,
+.index1 h4,
+.index3 h4 {
   margin-top: 16px;
   margin-bottom: 5px;
 }
 .spectrum-Typography .spectrum-Heading5,
-h5 {
+h5,
+.index1 h5,
+.index3 h5 {
   margin-top: 14px;
   margin-bottom: 4px;
 }
@@ -7691,23 +7711,33 @@ a.spectrum-ActionButton {
   color: #4b4b4b;
 }
 .spectrum--light .spectrum-Heading1,
-h1 {
+h1,
+.index1 h1,
+.index3 h1 {
   color: #2c2c2c;
 }
 .spectrum--light .spectrum-Heading2,
-h2 {
+h2,
+.index1 h2,
+.index3 h2 {
   color: #2c2c2c;
 }
 .spectrum--light .spectrum-Heading3,
-h3 {
+h3,
+.index1 h3,
+.index3 h3 {
   color: #2c2c2c;
 }
 .spectrum--light .spectrum-Heading4,
-h4 {
+h4,
+.index1 h4,
+.index3 h4 {
   color: #2c2c2c;
 }
 .spectrum--light .spectrum-Heading5,
-h5 {
+h5,
+.index1 h5,
+.index3 h5 {
   color: #2c2c2c;
 }
 .spectrum--light .spectrum-Heading6 {
