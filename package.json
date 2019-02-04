@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "build": " node_modules/less/bin/lessc web-src/less/spectrum/index.less htdocs/spectrum.css",
+    "build": "lessc web-src/less/index.less htdocs/site.css",
     "test": "mocha",
     "lint": "npx eslint ."
   },
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/adobe/Adobe-Developer-Site#readme",
   "dependencies": {
+    "@adobe/helix-cli": "^0.13.2",
     "moment": "^2.24.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
