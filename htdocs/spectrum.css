@@ -760,24 +760,29 @@ h5 {
   margin-top: 0px;
   margin-bottom: 9px;
 }
-.spectrum-Typography .spectrum-Heading1 {
+.spectrum-Typography .spectrum-Heading1,
+h1 {
   margin-top: 32px;
   margin-bottom: 9px;
 }
-.spectrum-Typography .spectrum-Heading2 {
+.spectrum-Typography .spectrum-Heading2,
+h2 {
   margin-top: 25px;
   margin-bottom: 7px;
 }
-.spectrum-Typography .spectrum-Heading3 {
+.spectrum-Typography .spectrum-Heading3,
+h3 {
   margin-top: 20px;
   margin-bottom: 6px;
 }
 .spectrum-Typography .spectrum-Heading4,
-.spectrum-Typography .spectrum-Heading--subtitle1 {
+.spectrum-Typography .spectrum-Heading--subtitle1,
+h4 {
   margin-top: 16px;
   margin-bottom: 5px;
 }
-.spectrum-Typography .spectrum-Heading5 {
+.spectrum-Typography .spectrum-Heading5,
+h5 {
   margin-top: 14px;
   margin-bottom: 4px;
 }
@@ -7685,19 +7690,24 @@ a.spectrum-ActionButton {
 .spectrum--light .spectrum-Body5 {
   color: #4b4b4b;
 }
-.spectrum--light .spectrum-Heading1 {
+.spectrum--light .spectrum-Heading1,
+h1 {
   color: #2c2c2c;
 }
-.spectrum--light .spectrum-Heading2 {
+.spectrum--light .spectrum-Heading2,
+h2 {
   color: #2c2c2c;
 }
-.spectrum--light .spectrum-Heading3 {
+.spectrum--light .spectrum-Heading3,
+h3 {
   color: #2c2c2c;
 }
-.spectrum--light .spectrum-Heading4 {
+.spectrum--light .spectrum-Heading4,
+h4 {
   color: #2c2c2c;
 }
-.spectrum--light .spectrum-Heading5 {
+.spectrum--light .spectrum-Heading5,
+h5 {
   color: #2c2c2c;
 }
 .spectrum--light .spectrum-Heading6 {
@@ -14367,19 +14377,24 @@ a.spectrum-ActionButton {
 .spectrum--dark .spectrum-Body5 {
   color: #cdcdcd;
 }
-.spectrum--dark .spectrum-Heading1 {
+.spectrum--dark .spectrum-Heading1,
+h1 {
   color: #ffffff;
 }
-.spectrum--dark .spectrum-Heading2 {
+.spectrum--dark .spectrum-Heading2,
+h2 {
   color: #ffffff;
 }
-.spectrum--dark .spectrum-Heading3 {
+.spectrum--dark .spectrum-Heading3,
+h3 {
   color: #ffffff;
 }
-.spectrum--dark .spectrum-Heading4 {
+.spectrum--dark .spectrum-Heading4,
+h4 {
   color: #ffffff;
 }
-.spectrum--dark .spectrum-Heading5 {
+.spectrum--dark .spectrum-Heading5,
+h5 {
   color: #ffffff;
 }
 .spectrum--dark .spectrum-Heading6 {
